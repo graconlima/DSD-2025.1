@@ -8,6 +8,10 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/ERHBmbQ8UX5MkPFDqCKAoecBMpZFOZjXNq6h2kwDOI5KRg?e=GU44Cs">Aula 1</a> - Caracterização SD</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/EZRWFBuG5HBPuACTa4GCAxkBu1XksHLJnbLK8mF5t-EKaQ?e=ixmJH4">Aula 2</a> - Redes</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/Eav96xzo4sVNuk96rxEl9zYB-BkKGjeConXqGBuHwOf8UA?e=ezLcGd">Aula 2.3</a> - Tarefa 1</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/ERlN0-l1mahMmPWWpnQPHMYBmvgKDYAANaGKYdR6s1BZmQ?e=lbf0GB">Aula 2.2</a> - Requisitos de Redes</p>
+<p> </p>
+
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EVCt_fq4UAxEjIC3JMO0ykoBE9RruLXjcMR01v4sURzDWQ?e=15DicF">Aula 3 </a> - Comunicação entre processos</p>
 
 <br>
 
@@ -17,9 +21,6 @@
 <!--
 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/EZa14SbTZwhJlL8qZHKsDLQB1XAOckPQV0OIg8stdBltUA?e=8ATHdM">Aula 2.1</a> - Leitura (Cap. 3)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/ERlN0-l1mahMmPWWpnQPHMYBmvgKDYAANaGKYdR6s1BZmQ?e=lbf0GB">Aula 2.2</a> - Requisitos de Redes</p>
-<p> </p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EVCt_fq4UAxEjIC3JMO0ykoBE9RruLXjcMR01v4sURzDWQ?e=15DicF">Aula 3 </a> - Comunicação entre processos</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EfBqyQSb5wZApdu1gHkvS7QB1pRpB14eJTHOsDKqndKnew?e=KgGOIb">Aula 3.1</a> - Leitura (Cap. 4)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EcA94pr-90FIjWyrhEOgfJYB1NZT47CYH6NRf7vayuz5uQ?e=TOEqwM">Aula 3.2 </a> - TCP</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EZUG01vdM41Mu2RJa880ZfABFXj5y3eAPpIkikxDm2N5oA?e=3te35m">Aula 3.3 </a> - UDP</p>
