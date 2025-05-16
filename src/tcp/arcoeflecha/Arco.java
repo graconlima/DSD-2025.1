@@ -10,10 +10,10 @@ public class Arco {
         
         try{
         //10.25.2.30
-        Socket s = new Socket("localhost", 2000);
+        Socket s = new Socket("10.25.1.243", 2000);
         OutputStream os = s.getOutputStream();
         
-        String str = "meu_nome:110:75";
+        String str = "nome_aluno:100:50";
         os.write(str.getBytes());
         s.close();
         

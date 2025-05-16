@@ -5,7 +5,7 @@ import java.net.UnknownHostException;
 import java.io.IOException;
 import java.io.InputStream;
 public class Cliente {
-    private String endereco = "localhost";
+    private String endereco = "10.25.1.243";
     private int porta = 1234;
     public Cliente(){
         try{
