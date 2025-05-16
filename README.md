@@ -7,16 +7,16 @@
 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/ERHBmbQ8UX5MkPFDqCKAoecBMpZFOZjXNq6h2kwDOI5KRg?e=GU44Cs">Aula 1</a> - Caracterização SD</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/EZRWFBuG5HBPuACTa4GCAxkBu1XksHLJnbLK8mF5t-EKaQ?e=ixmJH4">Aula 2</a> - Redes</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/Eav96xzo4sVNuk96rxEl9zYB-BkKGjeConXqGBuHwOf8UA?e=ezLcGd">Aula 2.3</a> - Tarefa 1</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/Eav96xzo4sVNuk96rxEl9zYB-BkKGjeConXqGBuHwOf8UA?e=ezLcGd">Aula 2.1</a> - Tarefa 1</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/ERlN0-l1mahMmPWWpnQPHMYBmvgKDYAANaGKYdR6s1BZmQ?e=lbf0GB">Aula 2.2</a> - Requisitos de Redes</p>
 <p> </p>
 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EVCt_fq4UAxEjIC3JMO0ykoBE9RruLXjcMR01v4sURzDWQ?e=15DicF">Aula 3 </a> - Comunicação entre processos</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EcA94pr-90FIjWyrhEOgfJYB1NZT47CYH6NRf7vayuz5uQ?e=TOEqwM">Aula 3.2 </a> - TCP</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EZUG01vdM41Mu2RJa880ZfABFXj5y3eAPpIkikxDm2N5oA?e=3te35m">Aula 3.3 </a> - UDP</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/ETb4vQUAhDFPjL27sfv7BbEByjtoBmhPCKS2apw2YxTndw?e=WgRRTq">Aula 3.4 </a> - TCP (videoaula)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/ERzXu1bz7_pBq0A-2oSNPsoB3p5O6UO9fToVDBCj3C37CQ?e=yFGU5V">Aula 3.5 </a> - UDP (videoaula)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERbFQlBSyINJmB7jmn4UZAwB4L6L2KEkTje6obXZa_giXA?e=crCGNq">Aula 3.6 </a> - Tarefa 2</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EcA94pr-90FIjWyrhEOgfJYB1NZT47CYH6NRf7vayuz5uQ?e=TOEqwM">Aula 3.1 </a> - TCP</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EZUG01vdM41Mu2RJa880ZfABFXj5y3eAPpIkikxDm2N5oA?e=3te35m">Aula 3.2 </a> - UDP</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/ETb4vQUAhDFPjL27sfv7BbEByjtoBmhPCKS2apw2YxTndw?e=WgRRTq">Aula 3.3 </a> - TCP (videoaula)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/ERzXu1bz7_pBq0A-2oSNPsoB3p5O6UO9fToVDBCj3C37CQ?e=yFGU5V">Aula 3.4 </a> - UDP (videoaula)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERbFQlBSyINJmB7jmn4UZAwB4L6L2KEkTje6obXZa_giXA?e=crCGNq">Aula 3.5 </a> - Tarefa 2</p>
 
 
 <br>
