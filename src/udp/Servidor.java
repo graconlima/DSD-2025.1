@@ -1,10 +1,12 @@
 package udp;
 
 import java.net.DatagramSocket;
-import java.net.SocketException;
 import java.net.DatagramPacket;
-import java.io.IOException;
+
+import java.net.SocketException;
 import java.net.InetAddress;
+
+import java.io.IOException;
 
 public class Servidor {
 
@@ -21,7 +23,6 @@ public class Servidor {
                DatagramPacket dp = new DatagramPacket(buffer, buffer.length);
 
                System.out.println("Aguardando solicitacoes...");
-
                soquete.receive(dp);
 
                System.out.println(new String(dp.getData()).trim());
@@ -32,7 +33,7 @@ public class Servidor {
                System.out.println("endereco socket: "+dp.getSocketAddress());
 
                 System.out.println("\n\n");
-                dp = new DatagramPacket(mensagem, mensagem.length,dp.getAddress(), dp.getPort());
+                dp = new DatagramPacket(mensagem, mensagem.length, dp.getAddress(), dp.getPort());
 
                 soquete.send(dp);
                 soquete.close();

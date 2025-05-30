@@ -13,7 +13,7 @@ public class Arco {
         Socket s = new Socket("10.25.1.243", 2000);
         OutputStream os = s.getOutputStream();
         
-        String str = "nome_aluno:100:50";
+        String str = "dsd_aluno_1:200:500";
         os.write(str.getBytes());
         s.close();
         

@@ -20,11 +20,11 @@ public class Cliente {
             while(true){
                 Socket s = new Socket(endereco, porta);
                 OutputStream os = s.getOutputStream();
-                //os.write(JOptionPane.showInputDialog("Informe um valor").getBytes());
+                os.write(JOptionPane.showInputDialog("Informe um valor").getBytes());
 
                 //Exemplo automatico
-                String str = new String("" + (int) (Math.random()*15) + 1);
-                os.write(str.getBytes());
+                //String str = new String("" + (int) (Math.random()*15) + 1);
+                //os.write(str.getBytes());
 
                 byte[] b = new byte[100];
                 InputStream is = s.getInputStream();

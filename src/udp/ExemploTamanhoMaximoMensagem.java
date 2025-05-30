@@ -18,7 +18,7 @@ public class ExemploTamanhoMaximoMensagem {
     
         try{
             DatagramSocket soquete = new DatagramSocket();
-            DatagramPacket dp = new DatagramPacket(mensagem, mensagem.length,InetAddress.getByName("10.25.2.30"), porta);
+            DatagramPacket dp = new DatagramPacket(mensagem, mensagem.length,InetAddress.getByName("localhost"), porta);
 
             System.out.println("Enviando dados...");
             

@@ -9,13 +9,13 @@ import java.io.IOException;
 
 public class Cliente {
     
-    static byte[] mensagem = "SOLICITACAO DO CLIENTE".getBytes();
+    static byte[] mensagem = "SOLICITACAO DO CLIENTE 2".getBytes();
     static int porta = 3000;
     public static void main(String a[]){
     
         try{
             DatagramSocket soquete = new DatagramSocket();
-            DatagramPacket dp = new DatagramPacket(mensagem, mensagem.length,InetAddress.getByName("10.25.2.30"), porta);
+            DatagramPacket dp = new DatagramPacket(mensagem, mensagem.length,InetAddress.getByName("10.25.1.243"), porta);
 
             System.out.println("Enviando...");
             soquete.send(dp);

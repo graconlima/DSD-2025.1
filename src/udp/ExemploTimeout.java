@@ -23,7 +23,7 @@ public class ExemploTimeout {
                 soquete.send(dp);
 
                 System.out.println("Operacao receive...");
-                soquete.setSoTimeout(7000);//<<-------------
+                soquete.setSoTimeout(1000);//<<-------------
                 soquete.receive(dp);
                 
                 System.out.println(new String(dp.getData()).trim());
