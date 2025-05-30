@@ -1,4 +1,4 @@
-# DSD-2025.1 
+dddddd# DSD-2025.1 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX5Rq-50ao1LtcehbmnbuiIBsIr-GQ6uwDS5vjxkbhFahA?e=Q0PLLq">e-book</a> - Notas de Aula DSD </p>
 
 <br>
@@ -9,10 +9,21 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/EZRWFBuG5HBPuACTa4GCAxkBu1XksHLJnbLK8mF5t-EKaQ?e=ixmJH4">Aula 2</a> - Redes</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/Eav96xzo4sVNuk96rxEl9zYB-BkKGjeConXqGBuHwOf8UA?e=ezLcGd">Aula 2.3</a> - Tarefa 1</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/ERlN0-l1mahMmPWWpnQPHMYBmvgKDYAANaGKYdR6s1BZmQ?e=lbf0GB">Aula 2.2</a> - Requisitos de Redes</p>
-<p> </p>
+
+<br>
 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EVCt_fq4UAxEjIC3JMO0ykoBE9RruLXjcMR01v4sURzDWQ?e=15DicF">Aula 3 </a> - Comunicação entre processos</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EcA94pr-90FIjWyrhEOgfJYB1NZT47CYH6NRf7vayuz5uQ?e=TOEqwM">Aula 3.2 </a> - TCP</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EZUG01vdM41Mu2RJa880ZfABFXj5y3eAPpIkikxDm2N5oA?e=3te35m">Aula 3.3 </a> - UDP</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/ETb4vQUAhDFPjL27sfv7BbEByjtoBmhPCKS2apw2YxTndw?e=WgRRTq">Aula 3.4 </a> - TCP (videoaula)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/ERzXu1bz7_pBq0A-2oSNPsoB3p5O6UO9fToVDBCj3C37CQ?e=yFGU5V">Aula 3.5 </a> - UDP (videoaula)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERbFQlBSyINJmB7jmn4UZAwB4L6L2KEkTje6obXZa_giXA?e=crCGNq">Aula 3.6 </a> - Tarefa 2</p>
+
+<br>
+
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EeqRAOHhRvVDpBgWPr65kaIBsDBq-EV6kLCah3h3r_RP0w?e=JYSH9C">Aula 4 </a> - Invocação Remota</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/EbOzev_qmphDjAQJCafXW9sBAboPFALmod0br8MWBwVBKQ?e=04ka9r">Aula 4.1 </a> - Invocação Remota (videoaula)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EU8j5fjyCv5Fp3DxthS59N4BWij8l4rut34EJDQ7taeqeQ?e=CZg2xC">Aula 4.3 </a> - Protocolos de Requisição-Resposta</p>
 
 <br>
 
@@ -23,15 +34,10 @@
 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/EZa14SbTZwhJlL8qZHKsDLQB1XAOckPQV0OIg8stdBltUA?e=8ATHdM">Aula 2.1</a> - Leitura (Cap. 3)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EfBqyQSb5wZApdu1gHkvS7QB1pRpB14eJTHOsDKqndKnew?e=KgGOIb">Aula 3.1</a> - Leitura (Cap. 4)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EZUG01vdM41Mu2RJa880ZfABFXj5y3eAPpIkikxDm2N5oA?e=3te35m">Aula 3.3 </a> - UDP</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/ETb4vQUAhDFPjL27sfv7BbEByjtoBmhPCKS2apw2YxTndw?e=WgRRTq">Aula 3.4 </a> - TCP (videoaula)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/ERzXu1bz7_pBq0A-2oSNPsoB3p5O6UO9fToVDBCj3C37CQ?e=yFGU5V">Aula 3.5 </a> - UDP (videoaula)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERbFQlBSyINJmB7jmn4UZAwB4L6L2KEkTje6obXZa_giXA?e=crCGNq">Aula 3.6 </a> - Tarefa 2</p>
+
 <p> </p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EeqRAOHhRvVDpBgWPr65kaIBsDBq-EV6kLCah3h3r_RP0w?e=JYSH9C">Aula 4 </a> - Invocação Remota</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/EbOzev_qmphDjAQJCafXW9sBAboPFALmod0br8MWBwVBKQ?e=04ka9r">Aula 4.1 </a> - Invocação Remota (videoaula)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ESgBnBwh_xtIhlBedJpX5TsBJ1RIpUBUkxszXgtEKUwCqw?e=cn1L89">Aula 4.2 </a> - Leitura (Cap. 5)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EU8j5fjyCv5Fp3DxthS59N4BWij8l4rut34EJDQ7taeqeQ?e=CZg2xC">Aula 4.3 </a> - Protocolos de Requisição-Resposta</p>
+
+
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EWEegMK0ht1Ag_u0D8G4ZfYBYETjftn3cscIdv5T1oSSMg?e=hSyuGs">Aula 4.4 </a> - RPC</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/ESYAxPPJkb9Ckq1d673ynJIBqPFllX2cOu-7n8GO6HiVow?e=yW5XN5">Aula 4.5 </a> - RPC (videoaula)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EcNeFUM-v1pFgEFlC3co-_kBiHXoFHUO9b9LRRK7zp2MCA?e=jFAMH3">Aula 4.6 </a> - RMI</p>
