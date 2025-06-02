@@ -1,3 +1,4 @@
+# Atenção: as aulas dos dias: 05, 12, 19 e 26/06 as aulas de DSD serão destinadas a reposição das aulas de Interfaces Ricas.
 # DSD-2025.1 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX5Rq-50ao1LtcehbmnbuiIBsIr-GQ6uwDS5vjxkbhFahA?e=Q0PLLq">e-book</a> - Notas de Aula DSD </p>
 
@@ -7,7 +8,7 @@
 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/ERHBmbQ8UX5MkPFDqCKAoecBMpZFOZjXNq6h2kwDOI5KRg?e=GU44Cs">Aula 1</a> - Caracterização SD</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/EZRWFBuG5HBPuACTa4GCAxkBu1XksHLJnbLK8mF5t-EKaQ?e=ixmJH4">Aula 2</a> - Redes</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/Eav96xzo4sVNuk96rxEl9zYB-BkKGjeConXqGBuHwOf8UA?e=ezLcGd">Aula 2.3</a> - Tarefa 1</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/Eav96xzo4sVNuk96rxEl9zYB-BkKGjeConXqGBuHwOf8UA?e=ezLcGd">Aula 2.1</a> - Tarefa 1</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/ERlN0-l1mahMmPWWpnQPHMYBmvgKDYAANaGKYdR6s1BZmQ?e=lbf0GB">Aula 2.2</a> - Requisitos de Redes</p>
 
 <br>
@@ -24,6 +25,9 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EeqRAOHhRvVDpBgWPr65kaIBsDBq-EV6kLCah3h3r_RP0w?e=JYSH9C">Aula 4 </a> - Invocação Remota</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/EbOzev_qmphDjAQJCafXW9sBAboPFALmod0br8MWBwVBKQ?e=04ka9r">Aula 4.1 </a> - Invocação Remota (videoaula)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EU8j5fjyCv5Fp3DxthS59N4BWij8l4rut34EJDQ7taeqeQ?e=CZg2xC">Aula 4.3 </a> - Protocolos de Requisição-Resposta</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EWEegMK0ht1Ag_u0D8G4ZfYBYETjftn3cscIdv5T1oSSMg?e=hSyuGs">Aula 4.4 </a> - RPC</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/ESYAxPPJkb9Ckq1d673ynJIBqPFllX2cOu-7n8GO6HiVow?e=yW5XN5">Aula 4.5 </a> - RPC (videoaula)</p>
+
 
 <br>
 
@@ -38,8 +42,6 @@
 <p> </p>
 
 
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EWEegMK0ht1Ag_u0D8G4ZfYBYETjftn3cscIdv5T1oSSMg?e=hSyuGs">Aula 4.4 </a> - RPC</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/ESYAxPPJkb9Ckq1d673ynJIBqPFllX2cOu-7n8GO6HiVow?e=yW5XN5">Aula 4.5 </a> - RPC (videoaula)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EcNeFUM-v1pFgEFlC3co-_kBiHXoFHUO9b9LRRK7zp2MCA?e=jFAMH3">Aula 4.6 </a> - RMI</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/EbZ5xvn3O8VArPchhOJPgpEB_6tZakrcjE-lTPd3Y1kKcQ?e=9iJ8oo">Aula 4.7 </a> - RMI (videoaula)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/EQRnwBaafVhJimcnRn6leYIB6rQ_gzWWAdKwWH5LG-TWzQ?e=TXrdIW">Aula 4.8 </a> - CORBA (videoaula)</p>
