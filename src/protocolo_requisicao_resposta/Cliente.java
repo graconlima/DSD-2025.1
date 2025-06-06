@@ -24,7 +24,7 @@ public class Cliente {
 
         ds = new DatagramSocket();
                                                             //define q operacao quer q o servidor execute
-        byte[] b = doOperation(new ReferenciaRemota("localhost", 1234), 0, this.argumentos);
+        byte[] b = doOperation(new ReferenciaRemota("localhost", 1234), 7, this.argumentos);
         System.out.println("Resposta do servidor: \n\t"+new String(b).trim());
         
         //doOperation(new ReferenciaRemota("localhost", 1234), 0, this.argumentos);//gerar um novo request_id
