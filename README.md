@@ -32,6 +32,8 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EU8j5fjyCv5Fp3DxthS59N4BWij8l4rut34EJDQ7taeqeQ?e=CZg2xC">Aula 4.2 </a> - Protocolos de Requisição-Resposta</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EWEegMK0ht1Ag_u0D8G4ZfYBYETjftn3cscIdv5T1oSSMg?e=hSyuGs">Aula 4.3 </a> - RPC</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/ESYAxPPJkb9Ckq1d673ynJIBqPFllX2cOu-7n8GO6HiVow?e=yW5XN5">Aula 4.4 </a> - RPC (videoaula)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EcNeFUM-v1pFgEFlC3co-_kBiHXoFHUO9b9LRRK7zp2MCA?e=jFAMH3">Aula 4.6 </a> - RMI</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/EbZ5xvn3O8VArPchhOJPgpEB_6tZakrcjE-lTPd3Y1kKcQ?e=9iJ8oo">Aula 4.7 </a> - RMI (videoaula)</p>
 
 
 <br>
@@ -47,8 +49,6 @@
 <p> </p>
 
 
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EcNeFUM-v1pFgEFlC3co-_kBiHXoFHUO9b9LRRK7zp2MCA?e=jFAMH3">Aula 4.6 </a> - RMI</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/EbZ5xvn3O8VArPchhOJPgpEB_6tZakrcjE-lTPd3Y1kKcQ?e=9iJ8oo">Aula 4.7 </a> - RMI (videoaula)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/EQRnwBaafVhJimcnRn6leYIB6rQ_gzWWAdKwWH5LG-TWzQ?e=TXrdIW">Aula 4.8 </a> - CORBA (videoaula)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERZ84tlerbNJvzZZ8xEAnaQBs-1MvWymocnvhfdxvuzypQ?e=aYBHRz">Aula 4.9 </a> - gRPC</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EcsQa1-rOfBGrBXhbcI8OE8Bkjf0SVL13zW2vuPfYVNsLg?e=sBiuY5">Aula 4.10 </a> - Tarefa 3 (gRPC)</p>
