@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option java_package = "cumprimentar";
+option java_outer_classname = "CumprimentarProto";
+
+service CumprimentarService {
+  rpc dizerOla (CumprimentarRequest) returns (CumprimentarReply);
+}
+
+message CumprimentarRequest {
+  string nome = 1;
+}
+
+message CumprimentarReply {
+  string mensagem = 1;
+}
