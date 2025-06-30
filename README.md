@@ -1,3 +1,4 @@
+# Link para as apresentações: <p><a class="external-link" href="https://meet.google.com/rvh-bwnw-ozf"> Apresentações </a></p>
 # Atenção: as aulas dos dias: 05, 12, 19 e 26/06 as aulas de DSD serão destinadas a reposição das aulas de Interfaces Ricas.
 # DSD-2025.1 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX5Rq-50ao1LtcehbmnbuiIBsIr-GQ6uwDS5vjxkbhFahA?e=Q0PLLq">e-book</a> - Notas de Aula DSD </p>
