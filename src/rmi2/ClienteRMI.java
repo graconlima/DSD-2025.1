@@ -4,7 +4,7 @@ import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 public class ClienteRMI {
     public static void main(String[] args){
-        String endereco = "localhost";
+        String endereco = "10.25.1.243";
         int porta = 2000;
         try{
             Registry r = LocateRegistry.getRegistry(endereco, porta);
