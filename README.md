@@ -46,6 +46,11 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EZmUHKeRpgBKmER0mbQtT3gBA1T3coLP6q-QNkYl2QrofQ?e=xs5C8P">Aula 5.3 </a> - Serviços Web (REST)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EUvAxaKinehOoPdszugoaS0BCfPM2jTEzhPD0uDLJIq41A?e=TPhq9y">Aula 5.4 </a> - Tarefa 4 (SOAP e REST)</p>
 
+<br>
+Aula 7 - Extras
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EROsxjwbB5tPuPZrJ6Ubmc0BEdJPNmLe34X2AepEf1zR1w?e=u8zPIQ">Aula 7.1 </a> - WebSocket</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EVfWxIhD-vNFjM2kIiuKyawBdXuY2cMUtJD1Y5MH-LqPDQ?e=0qJsyo">Aula 7.2 </a> - GraphQL</p>
+
 <!--
 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/EZa14SbTZwhJlL8qZHKsDLQB1XAOckPQV0OIg8stdBltUA?e=8ATHdM">Aula 2.1</a> - Leitura (Cap. 3)</p>
@@ -66,10 +71,6 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EYhTBKPLw35Ho97FXsuPpnMB5u7oC5z8qcdg7O_-VVc1Fg?e=C5ElFd">Aula 6.3 </a> - Filas de mensagens</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EWUw0869iVhPiUo00IX8r3IBvSxIs3lPYAzDaDP9uDi4nA?e=CDehPp">Aula 6.4 </a> - Tarefa 7 (MOM)</p>
 
-<br>
-Aula 7 - Extras
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EROsxjwbB5tPuPZrJ6Ubmc0BEdJPNmLe34X2AepEf1zR1w?e=u8zPIQ">Aula 7.1 </a> - WebSocket</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EVfWxIhD-vNFjM2kIiuKyawBdXuY2cMUtJD1Y5MH-LqPDQ?e=0qJsyo">Aula 7.2 </a> - GraphQL</p>
 
 -->
 
