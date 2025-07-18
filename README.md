@@ -49,6 +49,7 @@
 <br>
 
 Aula 7 - Extras
+
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EROsxjwbB5tPuPZrJ6Ubmc0BEdJPNmLe34X2AepEf1zR1w?e=u8zPIQ">Aula 7.1 </a> - WebSocket</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EVfWxIhD-vNFjM2kIiuKyawBdXuY2cMUtJD1Y5MH-LqPDQ?e=0qJsyo">Aula 7.2 </a> - GraphQL</p>
 
