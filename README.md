@@ -48,6 +48,14 @@
 
 <br>
 
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX-91086VFxNo2KxyVXPOakBT3XRsdg_tQSO_pPiHYt_BA?e=6oy9q7">Aula 6 </a> - Comunicação indireta</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EU9MPjPIlihKpZgQPe9lh-4Bb3R2jYqnvXjx5LN4Cjpf5Q?e=SE0TCM">Aula 6.1 </a> - Comunicação por difusão seletiva</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Eb6ompNBeyhOg-l0cs1-ILUBrlMilChZ_23ZCz3X5pycBg?e=oqV0p0">Aula 6.2 </a> - Sistemas publicar-assinar</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EYhTBKPLw35Ho97FXsuPpnMB5u7oC5z8qcdg7O_-VVc1Fg?e=C5ElFd">Aula 6.3 </a> - Filas de mensagens</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EWUw0869iVhPiUo00IX8r3IBvSxIs3lPYAzDaDP9uDi4nA?e=CDehPp">Aula 6.4 </a> - Tarefa 7 (MOM)</p>
+
+<br>
+
 Aula 7 - Extras
 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EROsxjwbB5tPuPZrJ6Ubmc0BEdJPNmLe34X2AepEf1zR1w?e=u8zPIQ">Aula 7.1 </a> - WebSocket</p>
@@ -66,12 +74,7 @@ Aula 7 - Extras
 
 
 
-<br>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX-91086VFxNo2KxyVXPOakBT3XRsdg_tQSO_pPiHYt_BA?e=6oy9q7">Aula 6 </a> - Comunicação indireta</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EU9MPjPIlihKpZgQPe9lh-4Bb3R2jYqnvXjx5LN4Cjpf5Q?e=SE0TCM">Aula 6.1 </a> - Comunicação por difusão seletiva</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/Eb6ompNBeyhOg-l0cs1-ILUBrlMilChZ_23ZCz3X5pycBg?e=oqV0p0">Aula 6.2 </a> - Sistemas publicar-assinar</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EYhTBKPLw35Ho97FXsuPpnMB5u7oC5z8qcdg7O_-VVc1Fg?e=C5ElFd">Aula 6.3 </a> - Filas de mensagens</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EWUw0869iVhPiUo00IX8r3IBvSxIs3lPYAzDaDP9uDi4nA?e=CDehPp">Aula 6.4 </a> - Tarefa 7 (MOM)</p>
+
 
 
 -->
