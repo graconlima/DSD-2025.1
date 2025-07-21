@@ -1,0 +1,39 @@
+<html>
+	<head>
+		<title>Chamada AJAX</title>
+	</head>
+	<body>
+		<input id="t1" type="text" />
+		<input type="submit" id="b1" value="Enviar" onclick="requisicao()"/>
+		<script>
+			function requisicao(){
+				var rajax = new XMLHttpRequest();
+				if(!rajax){
+					console.log("Sem rajax");
+				}else{
+					console.log("rajax Ok");
+				}
+				rajax.open("POST", "/exemplo_ajax/r.php", true);				
+				rajax.onreadystatechange = function(){
+					if(rajax.readyState === XMLHttpRequest.DONE && 
+					rajax.status === 200){
+						var dados = rajax.responseText; 
+						console.log(dados);
+
+						//exemplo 3
+						/*if(dados.parametro != 1000){
+							setTimeout(requisicao(), 1000);
+						}*/
+						document.getElementById("t1").value=dados;
+
+					}
+				};
+
+				rajax.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+				var i = 0;
+				rajax.send("parametro="+(++i));
+			}
+
+		</script>	
+	</body>
+</html>
