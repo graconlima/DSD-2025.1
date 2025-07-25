@@ -1,5 +1,5 @@
 # Observação: as aulas das segunda será no Lab 12 e das sextas no Lab11
-# Observação 2: Links: <p><a class="external-link" href="https://download.oracle.com/glassfish/4.0/promoted/index.html">GlassFish</a> </p> e <p><a class="external-link" href="https://mvnrepository.com/artifact/javax.jms/javax.jms-api/2.0">JMS API</a></p>
+# Observação 2: Links: <a class="external-link" href="https://download.oracle.com/glassfish/4.0/promoted/index.html">GlassFish</a> e <a class="external-link" href="https://mvnrepository.com/artifact/javax.jms/javax.jms-api/2.0">JMS API</a>
 
 
 
