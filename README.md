@@ -1,4 +1,8 @@
 # Observação: as aulas das segunda será no Lab 12 e das sextas no Lab11
+# Observação 2: Links: <p><a class="external-link" href="https://download.oracle.com/glassfish/4.0/promoted/index.html">GlassFish</a> </p> e <p><a class="external-link" href="https://mvnrepository.com/artifact/javax.jms/javax.jms-api/2.0">JMS API</a></p>
+
+
+
 # Link para as apresentações: <p><a class="external-link" href="https://meet.google.com/rvh-bwnw-ozf"> Apresentações </a></p>
 # DSD-2025.1 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX5Rq-50ao1LtcehbmnbuiIBsIr-GQ6uwDS5vjxkbhFahA?e=Q0PLLq">e-book</a> - Notas de Aula DSD </p>
