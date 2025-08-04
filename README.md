@@ -47,8 +47,10 @@
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EdQsNYFjFPtBtejLT7lqb5YBCIJw-ltkzZPIySm0f1l-zg?e=kKGTig">Aula 5 </a> - WEB</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2023.2/EVWy3e3DVf5Eq10kDlpD_IsBSQSjG4aVaV32xn9m0EJd0g?e=i8O653&amp;nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Aula 5.1 </a> - Estudo de Caso - API (videoaula)</p>
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EdXZ71Xx1KZFteXtYsvt_PYB298RIbBq3mbeiAmtDsBblg?e=mRdkhd">Aula 5.2 </a> - Serviços Web (SOAP)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EZmUHKeRpgBKmER0mbQtT3gBA1T3coLP6q-QNkYl2QrofQ?e=xs5C8P">Aula 5.3 </a> - Serviços Web (REST)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EUvAxaKinehOoPdszugoaS0BCfPM2jTEzhPD0uDLJIq41A?e=TPhq9y">Aula 5.4 </a> - Tarefa 4 (SOAP e REST)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/EQHhhaG-DhRMnE54s_vhsPYBW9bn3m5pgR65o1Mq4oFSOQ?e=ZiAaZO">Aula 5.3 </a> - SOAP (videoaula)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EZmUHKeRpgBKmER0mbQtT3gBA1T3coLP6q-QNkYl2QrofQ?e=xs5C8P">Aula 5.4 </a> - Serviços Web (REST)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:v:/s/DSD2024.1/EXLLSFF2lWhGgBsgVXMdEJEBHVaKY4UmGhU6d_8VdMT28g?e=AFyQlI">Aula 5.5 </a> - REST (videoaula)</p>
+<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EUvAxaKinehOoPdszugoaS0BCfPM2jTEzhPD0uDLJIq41A?e=TPhq9y">Aula 5.6 </a> - Tarefa 4 (SOAP e REST)</p>
 
 <br>
 
@@ -67,26 +69,7 @@ Aula 7 - Extras
 
 <!--
 
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/EZa14SbTZwhJlL8qZHKsDLQB1XAOckPQV0OIg8stdBltUA?e=8ATHdM">Aula 2.1</a> - Leitura (Cap. 3)</p>
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EfBqyQSb5wZApdu1gHkvS7QB1pRpB14eJTHOsDKqndKnew?e=KgGOIb">Aula 3.1</a> - Leitura (Cap. 4)</p>
 
-<p> </p>
-
-
-
-<p> </p>
-
-
-
-
-
-
--->
-
-
-<!--
-
-<p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:b:/s/DSD2023.1/EXRCPXsCiG5LsSiCLAJ_XOgBdWgLqNKLEWUwEqZ9Pj6m6w?e=6YQBeS">Aula 1.1</a> - Leitura (Cap. 1)</p>
 
 <p><a class="external-link" href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EUnR0KSBFg5DpUnxKdMKcFABwalutnKR0t6zUVExd5qNeQ?e=pnv0yc" mce_href="https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EUnR0KSBFg5DpUnxKdMKcFABwalutnKR0t6zUVExd5qNeQ?e=pnv0yc">Aula 4.9 </a> - Tarefa 3 (RMI)</p>
 
